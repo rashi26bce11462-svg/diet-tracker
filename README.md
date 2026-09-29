@@ -75,9 +75,6 @@ All tests print `passed` on success and check things like:
 - correct BMI category classification
 - invalid input (zero/negative values) raising an error
 
-## Screenshots
-(Add terminal screenshots here after running the program, e.g. the menu,
-a BMI result, and a sample daily report.)
 
 ## Notes
 - The bundled `data/calories.csv` is a smaller sample dataset (~50 items)
